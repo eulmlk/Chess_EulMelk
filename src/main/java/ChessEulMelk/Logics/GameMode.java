@@ -1,0 +1,5 @@
+package ChessEulMelk.Logics;
+
+public enum GameMode {
+    NONE, EDITOR, ANALYSIS, VIEW_HISTORY, PLAY_AS_BLACK, PLAY_AS_WHITE, TWO_PLAYER, CHECKMATE, STALEMATE, WATCH;
+}
